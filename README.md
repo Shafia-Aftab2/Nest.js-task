@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Products API
 This is a NestJS-based API for managing products, including creating, updating, retrieving, and deleting products. The project uses a simple in-memory storage mechanism with a Map to store product data.
 
@@ -79,3 +80,7 @@ npm run test
 
 npm run test:e2e
 
+=======
+# Nest.js-task
+REST API using NestJS that manages a list of products. 
+>>>>>>> 1f7342077c1a265686cef7939a3e8528d1a6edf5
